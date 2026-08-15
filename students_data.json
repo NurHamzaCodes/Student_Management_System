@@ -1,0 +1,40 @@
+{
+    "students": [
+        "Hamza",
+        "Rohan",
+        "Rafee",
+        "Tanvir"
+    ],
+    "s_ditelis": [
+        {
+            "Full Name:": "Nur Hamza",
+            "ID No:": "226017",
+            "class:": "10",
+            "Age:": "16"
+        },
+        {
+            "Full Name:": "Zim Muzarrod Rohan",
+            "ID No:": "2226013",
+            "class:": "10",
+            "Age:": "16"
+        },
+        {
+            "Full Name:": "Jarif Abdullah Rafee",
+            "ID No:": "2226007",
+            "class:": "10",
+            "Age:": "17"
+        },
+        {
+            "Full Name:": "Tanvir Hossin",
+            "ID No:": "236022",
+            "Age:": "17",
+            "Class:":"9"
+        }
+    ],
+    "s_dic": {
+        "Hamza": 0,
+        "Rohan": 1,
+        "Rafee": 2,
+        "Tanvir":3
+    }
+}
